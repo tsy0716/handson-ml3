@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bb83071-512a-4764-be68-ab088d2860ec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/handson-ml3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/handson-ml3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_the_machine_learning_landscape.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_the_machine_learning_landscape.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_end_to_end_machine_learning_project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_end_to_end_machine_learning_project.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modified/02_modified.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/modified/02_modified.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="6bb83071-512a-4764-be68-ab088d2860ec" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +58,7 @@
       <workItem from="1673568904259" duration="61000" />
       <workItem from="1673568979775" duration="113000" />
       <workItem from="1673571825676" duration="749000" />
+      <workItem from="1674561356597" duration="21000" />
     </task>
     <servers />
   </component>
